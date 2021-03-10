@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\TegahsShapes\bin\Debug\TegahsShapes.exe.config
+C:\Users\DELL\source\repos\TegahsShapes\bin\Debug\TegahsShapes.exe
+C:\Users\DELL\source\repos\TegahsShapes\bin\Debug\TegahsShapes.pdb
+C:\Users\DELL\source\repos\TegahsShapes\obj\Debug\TegahsShapes.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TegahsShapes\obj\Debug\TegahsShapes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TegahsShapes\obj\Debug\TegahsShapes.exe
+C:\Users\DELL\source\repos\TegahsShapes\obj\Debug\TegahsShapes.pdb
